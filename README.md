@@ -1,1 +1,3 @@
 # password-strength-checker
+
+Developing a Password Strength Meter application using HTML, CSS and JS. Password strength calculation. Only Number or Characters - Weak - Display in red colour.Combination of Numbers and Characters - Moderate - Display in Orange Colour. Combination of Numbers, Characters with upper case - Strong - Display in Blue Colour. Combination of Numbers, characters with upper case and symbol - Uncrackable - Display in Green Colour.Use the mouseover event to show the number of letters in the password. If the password strength is Weak or Moderate, suggest a randomly generated strong password.
